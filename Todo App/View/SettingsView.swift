@@ -62,8 +62,8 @@ struct SettingsView: View {
                     Section(header: Text("About the application")) {
                         FormRowStaticView(icon: "gear", firstText: "Application", secondText: "Todo")
                         FormRowStaticView(icon: "checkmark.seal", firstText: "Compatibility", secondText: "iPhone, iPad")
-                        FormRowStaticView(icon: "keyboard", firstText: "Developer", secondText: "John / Jane")
-                        FormRowStaticView(icon: "paintbrush", firstText: "Designer", secondText: "Robert Petras")
+                        FormRowStaticView(icon: "keyboard", firstText: "Developer", secondText: "Christian")
+                        FormRowStaticView(icon: "paintbrush", firstText: "Designer", secondText: "Christian Nonis")
                         FormRowStaticView(icon: "flag", firstText: "Version", secondText: "1.0.0")
                     }
                     .padding(.vertical, 3)
